@@ -1,1 +1,1 @@
-This is the first technically fully completed website, named "Cultured Diary" which is basically a website that on which a user can log the movies series or anime he has watched or has decide to watch
+This is the first technically fully completed website, named "Cultured Diary" which is basically a website that on which a user can log the movies series or anime he has watched or has decide to watch.
